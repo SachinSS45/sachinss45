@@ -15,7 +15,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently working as a Backend Engineer at Amdocs . Having 2 year of experience . I work on backend technologies like SpringBoot , Java <br>for Database : PL/SQL . 
+Name: Sachin Suryakant Shetkar
+Role: Backend Developer | Software Developer at Amdocs, Pune
+Experience: 2 years
+
+💻 Tech Stack
+Languages: Java, SQL
+
+Frameworks: Spring Boot
+
+Databases: PostgreSQL, MySQL
+
+DevOps / Cloud: Azure
+
+Operating Systems: Linux
+
+Scripting: Shell Scripting
+
+🚀 What I Bring to the Table
+I specialize in building scalable, maintainable, and efficient backend systems using Java and Spring Boot.
+From designing RESTful APIs to optimizing database queries, I help create backend solutions that power real-world applications.
+
+📌 Brief Bio
+I’m a passionate and results-driven Backend Developer with hands-on experience in core Java, object-oriented programming, DSA, multithreading, and SQL. I enjoy writing clean, modular code and thrive on solving real-world problems through technology.
+
+Currently, I’m enhancing my skill set in Docker, Linux, Azure, and system design to keep up with modern backend development practices. I believe in continuous learning, collaboration, and building products that make an impact.
+
+📂 My Work on GitHub
+Here you’ll find:
+
+Backend projects (Java + Spring Boot)
+
+Database-focused solutions (PostgreSQL & MySQL)
+
+Learning repositories (DSA, system design, scripting)
+
+Experimentation with new technologies
 
 
 ## 🌐 Socials:
