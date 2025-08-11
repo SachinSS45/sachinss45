@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 **Name:** Sachin Suryakant Shetkar  
 **Role:** Backend Developer | Software Developer at **Amdocs, Pune**  
 **Experience:** 2 years  
-
+- 🔭 I’m currently working on : SpringBoot, Shell Scripting, Postgres SQL, Shell Scripting ,AZURE, Jenkins, Docker, CI/CD Pipelines.
+- 🌱 I’m currently learning : System Design HLD .
+- 👯 I’m looking to collaborate on : Devops Technologies
+- 💬 Ask me about : Backend Technologies.
+- 📫 How to reach me: ssshetkar2001@gmail.com
 ---
 
 ## 💻 Tech Stack
@@ -56,7 +60,6 @@ Here you’ll find:
 - **Learning repositories** (DSA, system design, scripting)  
 - **Experimentation with new technologies**  
 
----
 ---
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-shetkar-681381218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssshetkar2001@gmail.com) 
