@@ -57,12 +57,6 @@ Here you’ll find:
 - **Experimentation with new technologies**  
 
 ---
-
-## 📊 GitHub Stats
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinss45&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinss45&layout=compact&theme=tokyonight)
-
 ---
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-shetkar-681381218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssshetkar2001@gmail.com) 
